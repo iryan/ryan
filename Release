@@ -1,0 +1,9 @@
+Origin: Ryan Repo
+Label: Ryan Repo
+Suite: stable
+Version: 1.0
+Codename: Ryan
+Architectures: iphoneos-arm
+Components: main
+Description: Ryan Repo
+MD5Sum
